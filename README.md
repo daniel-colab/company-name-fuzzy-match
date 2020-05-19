@@ -1,4 +1,4 @@
-### ***Process to Fuzzy Match Company Names between 2 Data Source***
+### ***Process to Fuzzy Match Company Names between 2 Data Sources***
 
 ***Why is this useful?***
   * Company names can vary between data sources for a number of reasons - including data collection processes (e.g. free-form text boxes), naming convensions, and more.
